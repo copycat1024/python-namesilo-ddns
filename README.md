@@ -30,6 +30,8 @@ After:
 | A      | 22.22.22.22            |`'www.mysite.com'` |
 | A      | 22.22.22.22            |`'blog.mysite.com'`|
 
+Noted that changes will only be made if needed, e.g. when the IP address is wrong.
+
 #### Installation
 This program is designed to run on Debian 9 "Stretch".
 
