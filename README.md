@@ -14,12 +14,14 @@ Subdomain: `['www', 'api', 'blog']`
 Public IP: 22.22.22.22
 
 Before:
+
 | Type   | Value                  | Hosts            |
 |--------|------------------------|------------------|
 | CNAME  | `'api.othersite.com'`  |`'api.mysite.com'`|
 | A      | 33.33.33.33            |`'www.mysite.com'`|
 
 After:
+
 | Type   | Value                  | Hosts             |
 |--------|------------------------|-------------------|
 | A      | 22.22.22.22            |`'api.mysite.com'` |
