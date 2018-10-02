@@ -8,10 +8,12 @@ This program is a Python script used to automatically update your DNS records on
 
 #### Usage
 
-The script will automatically configurate the DNS record of your domain names on NameSilo nameservers to point at the public IP of the machine it is ran on. Example:
-Domain name: `'mysite.com'`
-Subdomain: `['www', 'api', 'blog']`
-Public IP: 22.22.22.22
+The script will automatically configurate the DNS record of your domain names on NameSilo nameservers to point at the public IP of the machine it is ran on.
+
+Example:
+- Domain name: `'mysite.com'`
+- Subdomain: `['www', 'api', 'blog']`
+- Public IP: 22.22.22.22
 
 Before:
 
