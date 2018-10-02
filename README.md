@@ -4,7 +4,7 @@ Simple DNS updater for NameSilo using NameSilo's API. Written in Python 3.
 ### About
 This program is a Python script used to automatically update your DNS records on NameSilo's nameserver using their API.
 
-### Installation and Usage
+### Usage and Installation
 
 #### Usage
 
